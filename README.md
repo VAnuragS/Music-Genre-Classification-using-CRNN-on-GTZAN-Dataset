@@ -1,6 +1,6 @@
 # Music-Genre-Classification-using-CRNN-on-GTZAN-Dataset
 
-This repository implements a high-performance genre classification model using a Convolutional Recurrent Neural Network (CRNN) in PyTorch. The model is trained and evaluated on the GTZAN dataset, a widely-used benchmark in music genre recognition. The implementation emphasizes reproducibility, GPU acceleration, and efficient data preprocessing.
+This repository implements a high-performance genre classification model using a Convolutional Recurrent Neural Network (CRNN) in PyTorch. The model is trained and evaluated on the [GTZAN dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification), a widely-used benchmark in music genre recognition. The implementation emphasizes reproducibility, GPU acceleration, and efficient data preprocessing.
 
 ## Dataset
 
